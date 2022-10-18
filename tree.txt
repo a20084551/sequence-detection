@@ -1,4 +1,4 @@
-SD
+SEQUENCE-DETECTION
 ¢x  tree.txt
 ¢x  
 ¢|¢wsd
