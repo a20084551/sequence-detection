@@ -1,14 +1,15 @@
 SD
 ¢x  tree.txt
 ¢x  
-¢u¢wdat
-¢x      golden.dat
-¢x      pattern.dat
-¢x      
-¢u¢wscript
-¢x      script.do
-¢x      
-¢|¢wsrc
-        sd.sv
-        sd_tb.v
-        
+¢|¢wsd
+    ¢u¢wdat
+    ¢x      golden.dat
+    ¢x      pattern.dat
+    ¢x      
+    ¢u¢wscript
+    ¢x      script.do
+    ¢x      
+    ¢|¢wsrc
+            sd.sv
+            sd_tb.v
+            
